@@ -1,5 +1,3 @@
-'use client';
-
 // import { useEffect, useState, useCallback } from 'react';
 // import { useParams, useRouter } from 'next/navigation';
 // import { client } from '@/sanity/lib/client';
@@ -138,9 +136,8 @@
 
 
 
+'use client';
 
-
->>>>>>> afae8a608f45de9fe43521e87caa2b609c5cc8d5
 
 import { useEffect, useState, useCallback } from 'react';
 import { useParams, useRouter } from 'next/navigation';
