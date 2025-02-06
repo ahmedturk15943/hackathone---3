@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 'use client';
-=======
-
-// 'use client';
 
 // import { useEffect, useState, useCallback } from 'react';
 // import { useParams, useRouter } from 'next/navigation';
